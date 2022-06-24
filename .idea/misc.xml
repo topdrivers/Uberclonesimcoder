@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_add_circle.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_attach_money_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_call_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_cancel_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_check_circle_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_check_default.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_chip.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_circle.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_circle_filled.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_credit_card_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_exit_to_app_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_keyboard_arrow_up_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_location_on_grey_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_location_on_primary_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_map_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_sentiment_dissatisfied_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/drawable/ic_vpn_key_black_24dp.xml" value="0.1835" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_add_payment.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_authentication.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_costumer_content.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_customer_settings.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_driver_choose_type.xml" value="0.1105072463768116" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_driver_content.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_driver_settings.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_history.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_history_single.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_map_customer.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_map_driver.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/activity_payout.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/add_payment_content.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/dialog_card.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/dialog_ride_review.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/fragment_menu.xml" value="0.15" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/fragment_registration.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/item__card_request.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/item_card.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/item_history.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/item_marker.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/item_payout.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/item_type.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/menu/customer_main.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/menu/driver_main.xml" value="0.1" />
+        <entry key="..\:/Users/smail/Downloads/UberClone-master/UberClone-master/android/app/src/main/res/menu/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
